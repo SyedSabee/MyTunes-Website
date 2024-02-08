@@ -28,7 +28,7 @@ This is a simple website template for MyTunes, a fictional online platform for o
 
 # Project Output
 
-https://github.com/SyedSabee/MyTunes-Website/assets/145167243/c48a6217-c640-47ca-b8c7-123d56e0229b
+https://github.com/SyedSabee/MyTunes-Website/assets/145167243/40903c3b-a2aa-4d06-b345-cb1de6cceeae
 
 # Website Link
 
